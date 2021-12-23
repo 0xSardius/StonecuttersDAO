@@ -1,4 +1,5 @@
-# Built as a part of the buildspace create a DAO project in late December 2021. Shoutout to Farza.
+# StonecuttersDAO
+Built as a part of the buildspace create a DAO project in late December 2021. Shoutout to Farza.
 
 Stonecutters DAO is for Web3 programmers to cooperatively crowdfund their labor to efficiently and accurately finish Web3 projects.
 You can mint an ERC1155 NFT to gain access to the DAO, and any member can vote on proposals.
