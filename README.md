@@ -1,11 +1,6 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# Built as a part of the buildspace create a DAO project in late December 2021. Shoutout to Farza.
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
-
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+Stonecutters DAO is for Web3 programmers to cooperatively crowdfund their labor to efficiently and accurately finish Web3 projects.
+You can mint an ERC1155 NFT to gain access to the DAO, and any member can vote on proposals.
+There are 42000000 STONED tokens that will be airdropped to members of the DAO as they complete contracts.
+Want to think of this almost like a Web3 questing guild, where party members of different talents can party up and share the rewards of building the Web3 ecosystem.
